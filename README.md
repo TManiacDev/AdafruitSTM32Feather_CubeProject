@@ -1,7 +1,7 @@
 # Adafruit STM32Feather Express CubeIDE Project 
 This is a project to create a basic STM32CubeIDE project for the [Adafruit STM32 Feather Express board](https://learn.adafruit.com/adafruit-stm32f405-feather-express).
 All pins are assigned like the standard usage.
-[Pin Overview](docs/pics/pin_overview.png)
+![Pin Overview](docs/pics/pin_overview.png)
 
 ## Usage
 There are different ways to use this basics.
