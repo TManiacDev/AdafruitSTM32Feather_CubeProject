@@ -255,6 +255,8 @@
 */
 #define NEOPIXEL_Pin GPIO_PIN_0
 #define NEOPIXEL_GPIO_Port GPIOC
+#define D8_Pin GPIO_PIN_0
+#define D8_GPIO_Port GPIOC
 
 /* USER CODE BEGIN NEOPIXEL */
 

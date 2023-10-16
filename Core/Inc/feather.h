@@ -5,7 +5,7 @@
   * Description        : This file provides code for the configuration
   *                      of the instances.
   *
-  * Last updated       : Oct 14, 2023  7:48:44 PM
+  * Last updated       : Oct 16, 2023  11:23:47 AM
   *
   ******************************************************************************
   ******************************************************************************
@@ -237,6 +237,8 @@
 */
 #define NEOPIXEL_Pin GPIO_PIN_0
 #define NEOPIXEL_GPIO_Port GPIOC
+#define D8_Pin GPIO_PIN_0
+#define D8_GPIO_Port GPIOC
 
 /* USER CODE BEGIN NEOPIXEL */
 
